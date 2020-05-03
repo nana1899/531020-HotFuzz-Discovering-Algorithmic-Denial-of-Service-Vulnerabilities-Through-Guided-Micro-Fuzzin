@@ -1,7 +1,8 @@
 # 论文笔记
 * 论文标题：HotFuzz Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing
 * 论文作者：_William Blair (Boston University), Andrea Mambretti (Northeastern University), Sajjad Arshad (Northeastern University), Michael Weissbacher (Northeastern University), William Robertson (Northeastern University), Engin Kirda (Northeastern University), Manuel Egele (Boston University)_
-* 笔记作者：Qinfu Yang
+* 论文出处：Network and Distributed Systems Security (NDSS) Symposium 202023-26 February 2020, San Diego, CA, USA
+* 笔记作者：nanaY
 * 论文链接：[文章链接](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24415-paper.pdf)
 ## 论文笔记信息
 **1. 研究背景**  
